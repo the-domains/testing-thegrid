@@ -1,7 +1,7 @@
 name: Testing TheGrid
 favicon: null
-layout_spectrum: 0.4609500472433865
-typography_spectrum: 0.8444980790372938
+layout_spectrum: 0.33265
+typography_spectrum: 0.94764
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.6346381024923176
+  brandStrength: 1
   lightness: 0.7983159506693482
   saturation: 0.6832610710989684
   rhythmicContrast: 0.3970592611003667
